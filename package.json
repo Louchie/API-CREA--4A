@@ -1,0 +1,21 @@
+{
+  "name": "wsf-api-creation",
+  "version": "1.0.0",
+  "description": "Équipe :  Emeraude Cho Lin Wing + Lucie Yu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louchie/API-CREA--4A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Louchie/API-CREA--4A/issues"
+  },
+  "homepage": "https://github.com/Louchie/API-CREA--4A#readme"
+}
